@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielfan-pro
 - 👀 I’m interested in football and golf
-- 🌱 I’m currently learning ruby, Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web app development
 - 📫 How to reach me ...
 
