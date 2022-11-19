@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Rails
 - 💞️ I’m looking to collaborate on web app development
 
-- 📫 How to reach me
+ 📫 How to reach me
 - [LinkedIn][linkedin]
 - [Email][email]
 
