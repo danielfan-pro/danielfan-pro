@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @danielfan-pro
-- 👀 I’m interested in football and golf
-- 🌱 I’m currently learning React and Rails
-- 💞️ I’m looking to collaborate on web app development
-- 📫 How to reach me
+👋 Hi, I’m @danielfan-pro
+👀 I’m interested in football and golf
+🌱 I’m currently learning React and Rails
+💞️ I’m looking to collaborate on web app development
+
+📫 How to reach me
 - [LinkedIn][linkedin]
 - [Email][email]
 
