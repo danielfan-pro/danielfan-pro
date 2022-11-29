@@ -1,4 +1,4 @@
-👋 Hi, I’m @danielfan-pro
+👋 Hi, my name is Daniel Fan
 ==============================
 
 - 👀 I’m interested in football and golf
