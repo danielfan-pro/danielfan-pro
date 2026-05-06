@@ -3,8 +3,6 @@
 
 * 🌍 I'm based in Boston, MA
 * 👀 I’m interested in football and golf
-* 🌱 I’m currently learning C#
-* 🚀 I'm currently working on [Foodle](https://foodle.onrender.com/)
 * 💞️ I’m looking to collaborate on web app development
 
 ### Skills
